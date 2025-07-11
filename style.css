@@ -1,0 +1,28 @@
+.header{
+  background-image:url(Hero-bg.png) ;
+}
+
+
+.clr{
+    background-color: blue;
+    color: white;
+    width: 132px;
+    height: 48px;
+    border-radius: 10px;
+    font-weight: 200px;
+    
+}
+.btm
+{
+    margin: top 10px;;
+ width: 1140px;
+ height: 151px;
+ padding: 0px 50px;
+ justify-content: space-between;
+ display: flex;
+ 
+}
+.mid
+{
+    align-content: center;
+}
