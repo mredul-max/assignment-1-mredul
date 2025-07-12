@@ -1,7 +1,27 @@
 /*navbar*/
 .losi{
     display: flex;
-   justify-content: space-between; 
+   justify-content: space-between;
+   align-items: center;
 
+}
+.bannar{
+    text-align: center;
+}
+
+/*button*/
+.btn-all{
+    background-color: blue;
+    color: aliceblue;
+    border-radius:10px ;
+   padding: 10px;
+   width: 102px;
+   height: 50%;
+}
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
 }
 
