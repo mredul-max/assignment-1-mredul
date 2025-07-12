@@ -23,5 +23,11 @@
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
+  font-size:larger;
+}
+.btm{
+    background-image: url(Hero-bg.png);
+ padding-bottom: 200px;
+
 }
 
