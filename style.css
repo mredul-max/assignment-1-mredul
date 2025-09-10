@@ -9,6 +9,8 @@
 /*bannar*/
 .bannar{
     text-align: center;
+     font-size:xx-large;
+    font-weight:bold;
 }
 
 /*button*/
@@ -18,9 +20,14 @@
     border-radius:10px ;
    padding: 10px;
     ;
+    
    height: 50%;
    cursor: pointer;
 }
+    .btn-all:hover{
+      background-color: yellow;
+      color: black;
+    }
 .raleway-normal {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
